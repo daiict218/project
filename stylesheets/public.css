@@ -1,0 +1,12 @@
+html { height: 100%; width: 100%; }
+body { width: 100%; height: 100%; margin: 0px; padding: 0px; border: 0px;
+	font-family: Verdana, Arial; background-image: url('123.png'); background-size: 1300px; }
+#header h1 {text-align: center; color: red; font-size: 50px;}
+p {color: white; font-size: 25px;}
+#about {text-align : right; color: red; font-size: 30px;}
+footer {text-align : center; color: red; font-size: 50px;font-style: italic; margin-top: 80px;}
+#chatbox {text-align: center;}
+#name {text-align: center; color: white;}
+#display {background:white ; margin-left: 220px; font-weight: bold;font-style: italic;
+		width: 800px; height:300px; padding: 10px; border: 1px solid #CCC; overflow:auto;}
+#feedback {display:none;}
